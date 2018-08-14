@@ -1,2 +1,2 @@
-const {main} = require('./dp-entry');
-console.log(main(0));
+const {main} = require('./dp-primitive');
+console.log(main([5]));
